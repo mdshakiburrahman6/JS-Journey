@@ -14,5 +14,6 @@ const isLeader = true;
 // }
 
 
-price = isLeader === true ? price = price > 1000 ? console.log(price = price / 2) : console.log(price = 0) : console.log(price = price + 100); 
+// price = isLeader === true ? price = price > 1000 ? console.log(price = price / 2) : console.log(price = 0) : console.log(price = price + 100); 
+price = isLeader === true ? price > 1000 ? console.log(price = price / 2) : console.log(price = 0) : console.log(price = price + 100); 
 
